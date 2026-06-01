@@ -7,30 +7,28 @@ https://obuqdesign.wordpress.com/2024/05/22/trike-buggy/
 
 <br>
 
-## Details
+## Details V1
 
 | Property | Value |
 |---|---|
-| Type | Tridimensional model (pieces: V1 117 \| V2 105) |
+| Type | Tridimensional model (pieces: 117) |
 | Designed for | 3mm mdf or plywood |
 | Design file format | DXF R14 |
+| Dimensions | Height: 75mm; Length: 175mm; Width: 107mm |
+| Frame | 130x220mm (x3) – ReadyToCut Layout |
 | Units | mm |
 | Scalable | Yes |
 
-### V1
+## Details V2
 | Property | Value |
 |---|---|
-| Dimensions | Height: 75mm; Length: 175mm; Width: 107mm |
-
-### V2
-| Property | Value |
-|---|---|
+| Type | Tridimensional model (pieces: 105) |
+| Designed for | 3mm mdf or plywood |
+| Design file format | DXF R14 |
 | Dimensions | Height: 75mm; Length: 160mm; Width: 107mm |
-
-### Frame
-| Property | Value |
-|---|---|
 | Frame | 130x220mm (x3) – ReadyToCut Layout |
+| Units | mm |
+| Scalable | Yes |
 
 <br>
 <hr>
